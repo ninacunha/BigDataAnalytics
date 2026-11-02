@@ -1,0 +1,2 @@
+https://docs.pytorch.org/docs/2.14/generated/torch.nn.Embedding.html
+https://medium.com/@majkellveizaj/building-an-image-search-engine-with-resnet-50-bbb78f1ec3ff
